@@ -1,0 +1,9 @@
+{
+  "siteName": "Password Manager",
+  "NOT-AUTHORIZED": "Not Authorized!",
+  "NOT-AUTHORIZED-MESSAGE": "You are not authorized to access the page.",
+  "VERSION-TITLE": "Version",
+  "VERSION-DESCRIPTION": "The version of the application is {version}",
+  "REQUIRED": "This field is required.",
+  "EMAIL": "Invalid email address."
+}

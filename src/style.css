@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.page-container {
+  height: calc(100vh - 50px); /* subtracting height of the header */
+}
+
+ld-header {
+  --ld-header-max-width: none;
+  position: sticky;
+}
+
+ld-card {
+  --ld-card-padding: var(--ld-sp-16);
+}
